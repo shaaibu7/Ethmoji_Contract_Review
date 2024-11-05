@@ -38,7 +38,7 @@ My audit of this smart contract is based on the provided information and my expe
 
 ### <h3 id="About">1.2 🚀 About Me <h3>
 
-Hi, I'm Shaaibu Suleiman, a Smart Contract Developer. Currently, I am advancing my knowledge in Blockchain development at web3bridge.
+Hi, I'm Shaaibu Suleiman, a Smart Contract Developer. Currently, I am studying Blockchain development at web3bridge.
 
 As a smart contract developer i have passion for creating secure and scalable smart contract through the use of bests practices in design patterns along with comprehensive and continuous smart contract security auditing. 
 
@@ -73,7 +73,7 @@ _(**Table: 1.7**: Ethmoji Composable Art Audit Scope)_
 | Contract: 1 | |
 | `Composable.sol` | `432` |
 | | |
-| contracts: 7 | |
+| contracts: 6 | |
 | `Avatar.sol` | `67` |
 | `Ethmoji.sol` | `7` |
 | `EthmojiProxy.sol` | `60` |
