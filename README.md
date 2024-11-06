@@ -235,7 +235,7 @@ function mintTo(address _to, uint256 _compositionPrice, uint256 _changeRate,  bo
 
 ### <h3 id="Qanalysis"> 3.1 Qualitative Analysis<h3>
 
-_(**Table: 3.1**: GovernorBravoDelegate G2 Qualitative Analysis)_
+_(**Table: 3.1**: Ethmoji Composable Art Qualitative Analysis)_
 | Metric | Rating | Comment |
 | :-------- | :------- | :----- |
 | Code Complexity | Medium | Proper validations and security can be added |
